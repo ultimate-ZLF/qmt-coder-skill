@@ -1,0 +1,7 @@
+{
+  "name": "qmt-coder",
+  "display_name": "QMT 量化交易助手",
+  "description": "帮你用迅投 QMT 框架编写回测和实盘交易策略，包含完整的 ContextInfo API 参考、下单函数、数据获取方法和常见策略模板。",
+  "invocation": "qmt-coder",
+  "global": true
+}
